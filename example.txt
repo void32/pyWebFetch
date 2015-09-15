@@ -1,1 +1,1 @@
-python3 pyWebFetch.py -u http://www.germanpod101.com/2008/03/17/beginner-lesson-1-are-you-michaela-wucher/ -t .mp3 -l next -p payload.txt -i www.germanpod101.com/member/login_new.php
+python3 pyWebFetch.py -u <start webpage url> -t .mp3 -l next -p payload.txt -i <login webpage url>
